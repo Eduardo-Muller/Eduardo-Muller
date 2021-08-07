@@ -11,8 +11,8 @@
   <img align="center" alt="ESM-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ESM-Sass" height="50" width="60" src="https://image.flaticon.com/icons/png/512/919/919831.png">
   <img align="center" alt="ESM-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ESM-Vue" height="50" width="60" src="https://img-premium.flaticon.com/png/512/1183/premium/1183673.png?token=exp=1628104355~hmac=5477b211063b555e75abb19463896e0f">
-  <img align="center" alt="ESM-React" height="50" width="60" src="https://img-premium.flaticon.com/png/512/1183/premium/1183672.png?token=exp=1628104473~hmac=0796b2a2434039cd91df4abd7c577c5d">
+  <img align="center" alt="ESM-Vue" height="50" width="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vuejs_original_wordmark_logo_icon_146305.png">
+  <img align="center" alt="ESM-React" height="50" width="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png">
   <img align="center" alt="ESM-Angular" height="60" width="70" src="https://t4.ftcdn.net/jpg/00/73/01/33/240_F_73013357_eDyPWw1tmiYMuGQW4BW71FKEdQG8MF3r.jpg">
   <img align="center" alt="ESM-Docker" height="50" width="60" src="https://image.flaticon.com/icons/png/512/919/919853.png">
   <img align="center" alt="ESM-Node" height="50" width="60" src="https://image.flaticon.com/icons/png/512/919/919825.png">
